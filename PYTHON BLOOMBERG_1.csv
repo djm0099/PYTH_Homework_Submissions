@@ -1,0 +1,916 @@
+date ,event name ,period,survey median,actual ,prior ,revision 
+4/19/2022 8:30,Housing Starts,Mar,1740,1793,1769,1771
+4/20/2022 7:00,MBA Mortgage Applications,15-Apr,#N/A,-5,-1.3,#N/A
+4/20/2022 10:00,Existing Home Sales,Mar,5.77375,5.77,6.02,5.89
+4/21/2022 8:30,Initial Jobless Claims,16-Apr,180,184,185,215
+4/21/2022 10:00,Leading Index,Mar,0.25,0.3,0.3,0.3
+4/22/2022 9:45,S&P Global US Manufacturing PMI,Apr P,58,#N/A,58.8,#N/A
+4/26/2022 8:30,Durable Goods Orders,Mar P,1,0.8,-2.1,-1.7
+4/26/2022 10:00,New Home Sales,Mar,767.5,763,772,773
+4/26/2022 10:00,Conf. Board Consumer Confidence,Apr,108.2,107.3,107.2,107.6
+4/27/2022 7:00,MBA Mortgage Applications,22-Apr,#N/A,-8.3,-5,#N/A
+4/27/2022 8:30,Wholesale Inventories MoM,Mar P,1.5,2.3,2.5,2.6
+4/28/2022 8:30,Initial Jobless Claims,23-Apr,180,180,184,209
+4/28/2022 8:30,GDP Annualized QoQ,1Q A,1,-1.4,6.9,#N/A
+4/29/2022 8:30,Personal Income,Mar,0.4,0.5,0.5,0.61718
+4/29/2022 8:30,Personal Spending,Mar,0.6,1.1,0.2,0.71108
+4/29/2022 9:45,MNI Chicago PMI,Apr,62,56.4,62.9,60.97123182
+4/29/2022 10:00,U. of Mich. Sentiment,Apr F,65.7,65.2,65.7,#N/A
+5/2/2022 9:45,S&P Global US Manufacturing PMI,Apr F,59.7,59.2,58.8,59.2
+5/2/2022 10:00,ISM Manufacturing,Apr,57.6,55.4,57.1,57.3
+5/3/2022 10:00,Durable Goods Orders,Mar F,0.8,1.1,0.8,-0.13225
+5/3/2022 10:00,Factory Orders,Mar,1.2,2.2,-0.5,0.12451
+5/4/2022 7:00,MBA Mortgage Applications,29-Apr,#N/A,2.5,-8.3,#N/A
+5/4/2022 8:15,ADP Employment Change,Apr,382.5,247,455,380
+5/4/2022 8:30,Trade Balance,Mar,-107.1,-109.8,-89.2,-86.96
+5/4/2022 14:00,FOMC Rate Decision (Upper Bound),4-May,1,1,0.5,#N/A
+5/5/2022 8:30,Initial Jobless Claims,30-Apr,180,200,180,210
+5/6/2022 8:30,Change in Nonfarm Payrolls,Apr,380,428,431,494
+5/6/2022 8:30,Unemployment Rate,Apr,3.5,3.6,3.6,#N/A
+5/9/2022 10:00,Wholesale Inventories MoM,Mar F,2.3,2.3,2.3,2.46384
+5/11/2022 7:00,MBA Mortgage Applications,6-May,#N/A,2,2.5,#N/A
+5/11/2022 8:30,CPI MoM,Apr,0.2,0.3,1.2,1.06068
+5/11/2022 8:30,CPI YoY,Apr,8.1,8.3,8.5,#N/A
+5/12/2022 8:30,PPI Final Demand MoM,Apr,0.5,0.5,1.4,1.59546
+5/12/2022 8:30,Initial Jobless Claims,7-May,193,203,200,219
+5/13/2022 10:00,U. of Mich. Sentiment,May P,64,59.1,65.2,#N/A
+5/16/2022 8:30,Empire Manufacturing,May,15,-11.6,24.6,#N/A
+5/17/2022 8:30,Retail Sales Advance MoM,Apr,1,0.9,0.5,2.12684
+5/17/2022 9:15,Industrial Production MoM,Apr,0.5,1.1,0.9,0.78818
+5/18/2022 7:00,MBA Mortgage Applications,13-May,#N/A,-11,2,#N/A
+5/18/2022 8:30,Housing Starts,Apr,1756,1724,1793,1713
+5/19/2022 8:30,Initial Jobless Claims,14-May,200,218,203,206
+5/19/2022 10:00,Existing Home Sales,Apr,5.64,5.61,5.77,5.63
+5/19/2022 10:00,Leading Index,Apr,0,-0.3,0.3,-0.1
+5/24/2022 9:45,S&P Global US Manufacturing PMI,May P,57.65,#N/A,59.2,#N/A
+5/24/2022 10:00,New Home Sales,Apr,748,591,763,707
+5/25/2022 7:00,MBA Mortgage Applications,20-May,#N/A,-1.2,-11,#N/A
+5/25/2022 8:30,Durable Goods Orders,Apr P,0.6,0.4,1.1,0.6
+5/26/2022 8:30,Initial Jobless Claims,21-May,215,210,218,224
+5/26/2022 8:30,GDP Annualized QoQ,1Q S,-1.3,-1.5,-1.4,-2
+5/27/2022 8:30,Personal Income,Apr,0.5,0.4,0.5,0.39347
+5/27/2022 8:30,Personal Spending,Apr,0.75,0.9,1.1,1.17458
+5/27/2022 8:30,Wholesale Inventories MoM,Apr P,2,2.1,2.3,2.7
+5/27/2022 10:00,U. of Mich. Sentiment,May F,59.1,58.4,59.1,#N/A
+5/31/2022 9:45,MNI Chicago PMI,May,55,60.3,56.4,54.1591581
+5/31/2022 10:00,Conf. Board Consumer Confidence,May,103.6,106.4,107.3,108.6
+6/1/2022 7:00,MBA Mortgage Applications,27-May,#N/A,-2.3,-1.2,#N/A
+6/1/2022 9:45,S&P Global US Manufacturing PMI,May F,57.5,57,59.2,57
+6/1/2022 10:00,ISM Manufacturing,May,54.5,56.1,55.4,55.6
+6/2/2022 8:15,ADP Employment Change,May,300,128,247,284
+6/2/2022 8:30,Initial Jobless Claims,28-May,210,200,210,212
+6/2/2022 10:00,Durable Goods Orders,Apr F,0.4,0.5,0.4,1.00657
+6/2/2022 10:00,Factory Orders,Apr,0.65,0.3,2.2,2.24155
+6/3/2022 8:30,Unemployment Rate,May,3.5,3.6,3.6,3.7
+6/3/2022 8:30,Change in Nonfarm Payrolls,May,317.5,390,428,272
+6/7/2022 8:30,Trade Balance,Apr,-89.5,-87.1,-109.8,-102.536
+6/8/2022 7:00,MBA Mortgage Applications,3-Jun,#N/A,-6.5,-2.3,#N/A
+6/8/2022 10:00,Wholesale Inventories MoM,Apr F,2.1,2.2,2.1,2.35837
+6/9/2022 8:30,Initial Jobless Claims,4-Jun,206,229,200,201
+6/10/2022 8:30,CPI MoM,May,0.7,1,0.3,0.39622
+6/10/2022 8:30,CPI YoY,May,8.29,8.6,8.3,#N/A
+6/10/2022 10:00,U. of Mich. Sentiment,Jun P,58.1,50.2,58.4,#N/A
+6/14/2022 8:30,PPI Final Demand MoM,May,0.8,0.8,0.5,0.59692
+6/15/2022 7:00,MBA Mortgage Applications,10-Jun,#N/A,6.6,-6.5,#N/A
+6/15/2022 8:30,Retail Sales Advance MoM,May,0.1,-0.3,0.9,1.32659
+6/15/2022 8:30,Empire Manufacturing,Jun,2.25,-1.2,-11.6,#N/A
+6/15/2022 14:00,FOMC Rate Decision (Upper Bound),15-Jun,1.5,1.75,1,#N/A
+6/16/2022 8:30,Housing Starts,May,1693,1549,1724,1803
+6/16/2022 8:30,Initial Jobless Claims,11-Jun,216.5,229,229,215
+6/17/2022 9:15,Industrial Production MoM,May,0.4,0.2,1.1,0.30963
+6/17/2022 10:00,Leading Index,May,-0.4,-0.4,-0.3,-0.4
+6/21/2022 10:00,Existing Home Sales,May,5.4,5.41,5.61,5.53
+6/22/2022 7:00,MBA Mortgage Applications,17-Jun,#N/A,4.2,6.6,#N/A
+6/23/2022 8:30,Initial Jobless Claims,18-Jun,226,229,229,214
+6/23/2022 9:45,S&P Global US Manufacturing PMI,Jun P,55.95,#N/A,57,#N/A
+6/24/2022 10:00,New Home Sales,May,590,696,591,611
+6/24/2022 10:00,U. of Mich. Sentiment,Jun F,50.2,50,50.2,#N/A
+6/27/2022 8:30,Durable Goods Orders,May P,0.1,0.7,0.5,0.4
+6/28/2022 8:30,Wholesale Inventories MoM,May P,2.1,2,2.2,2.3
+6/28/2022 10:00,Conf. Board Consumer Confidence,Jun,100,98.7,106.4,103.2
+6/29/2022 7:00,MBA Mortgage Applications,24-Jun,#N/A,0.7,4.2,#N/A
+6/29/2022 8:30,GDP Annualized QoQ,1Q T,-1.5,-1.6,-1.5,#N/A
+6/30/2022 8:30,Initial Jobless Claims,25-Jun,229.5,231,229,216
+6/30/2022 8:30,Personal Income,May,0.5,0.5,0.4,0.32883
+6/30/2022 8:30,Personal Spending,May,0.4,0.2,0.9,0.62145
+6/30/2022 9:45,MNI Chicago PMI,Jun,58,56,60.3,58.78430152
+7/1/2022 9:45,S&P Global US Manufacturing PMI,Jun F,52.4,52.7,57,52.7
+7/1/2022 10:00,ISM Manufacturing,Jun,54.5,53,56.1,56.1
+7/5/2022 10:00,Durable Goods Orders,May F,0.7,0.8,0.7,0.67283
+7/5/2022 10:00,Factory Orders,May,0.5,1.6,0.3,0.7
+7/6/2022 7:00,MBA Mortgage Applications,1-Jul,#N/A,-5.4,0.7,#N/A
+7/7/2022 8:30,Trade Balance,May,-84.7,-85.5,-87.1,-85.975
+7/7/2022 8:30,Initial Jobless Claims,2-Jul,230,235,231,213
+7/8/2022 8:30,Change in Nonfarm Payrolls,Jun,265,372,390,286
+7/8/2022 8:30,Unemployment Rate,Jun,3.6,3.6,3.6,#N/A
+7/8/2022 10:00,Wholesale Inventories MoM,May F,2,1.8,2,2.22884
+7/13/2022 7:00,MBA Mortgage Applications,8-Jul,#N/A,-1.7,-5.4,#N/A
+7/13/2022 8:30,CPI MoM,Jun,1.095,1.3,1,0.92062
+7/13/2022 8:30,CPI YoY,Jun,8.8,9.1,8.6,#N/A
+7/14/2022 8:30,PPI Final Demand MoM,Jun,0.8,1.1,0.8,0.88604
+7/14/2022 8:30,Initial Jobless Claims,9-Jul,235,244,235,214
+7/15/2022 8:30,Retail Sales Advance MoM,Jun,0.9,1,-0.3,-0.14559
+7/15/2022 8:30,Empire Manufacturing,Jul,-2,11.1,-1.2,#N/A
+7/15/2022 9:15,Industrial Production MoM,Jun,0.1,-0.2,0.2,-0.0179
+7/15/2022 10:00,U. of Mich. Sentiment,Jul P,50,51.1,50,#N/A
+7/19/2022 8:30,Housing Starts,Jun,1580,1559,1549,1543
+7/20/2022 7:00,MBA Mortgage Applications,15-Jul,#N/A,-6.3,-1.7,#N/A
+7/20/2022 10:00,Existing Home Sales,Jun,5.35,5.12,5.41,5.35
+7/21/2022 8:30,Initial Jobless Claims,16-Jul,240,251,244,216
+7/21/2022 10:00,Leading Index,Jun,-0.6,-0.8,-0.4,-0.8
+7/22/2022 9:45,S&P Global US Manufacturing PMI,Jul P,52,#N/A,52.7,#N/A
+7/26/2022 10:00,New Home Sales,Jun,655,590,696,636
+7/26/2022 10:00,Conf. Board Consumer Confidence,Jul,97,95.7,98.7,98.4
+7/27/2022 7:00,MBA Mortgage Applications,22-Jul,#N/A,-1.8,-6.3,#N/A
+7/27/2022 8:30,Wholesale Inventories MoM,Jun P,1.5,1.9,1.8,1.9
+7/27/2022 8:30,Durable Goods Orders,Jun P,-0.4,1.9,0.8,#N/A
+7/27/2022 14:00,FOMC Rate Decision (Upper Bound),27-Jul,2.5,2.5,1.75,#N/A
+7/28/2022 8:30,Initial Jobless Claims,23-Jul,250,256,251,217
+7/28/2022 8:30,GDP Annualized QoQ,2Q A,0.4,-0.9,-1.6,#N/A
+7/29/2022 8:30,Personal Income,Jun,0.5,0.6,0.5,0.35127
+7/29/2022 8:30,Personal Spending,Jun,1,1.1,0.2,0.42942
+7/29/2022 9:45,MNI Chicago PMI,Jul,55,52.1,56,55.28733642
+7/29/2022 10:00,U. of Mich. Sentiment,Jul F,51.1,51.5,51.1,#N/A
+8/1/2022 9:45,S&P Global US Manufacturing PMI,Jul F,52.3,52.2,52.7,52.2
+8/1/2022 10:00,ISM Manufacturing,Jul,52,52.8,53,53.4
+8/3/2022 7:00,MBA Mortgage Applications,29-Jul,#N/A,1.2,-1.8,#N/A
+8/3/2022 10:00,Durable Goods Orders,Jun F,1.9,2,1.9,1.58395
+8/3/2022 10:00,Factory Orders,Jun,1.2,2,1.6,1.28124
+8/4/2022 8:30,Trade Balance,Jun,-80,-79.6,-85.5,-84.075
+8/4/2022 8:30,Initial Jobless Claims,30-Jul,260,260,256,221
+8/5/2022 8:30,Change in Nonfarm Payrolls,Jul,250,528,372,420
+8/5/2022 8:30,Unemployment Rate,Jul,3.6,3.5,3.6,#N/A
+8/10/2022 7:00,MBA Mortgage Applications,5-Aug,#N/A,0.2,1.2,#N/A
+8/10/2022 8:30,CPI MoM,Jul,0.2,0,1.3,1.18791
+8/10/2022 8:30,CPI YoY,Jul,8.7,8.5,9.1,#N/A
+8/10/2022 10:00,Wholesale Inventories MoM,Jun F,1.9,1.8,1.9,1.62357
+8/11/2022 8:30,PPI Final Demand MoM,Jul,0.2,-0.5,1.1,0.9268481
+8/11/2022 8:30,Initial Jobless Claims,6-Aug,264.5,262,260,229
+8/12/2022 10:00,U. of Mich. Sentiment,Aug P,52.5,55.1,51.5,#N/A
+8/15/2022 8:30,Empire Manufacturing,Aug,5,-31.3,11.1,#N/A
+8/16/2022 8:30,Housing Starts,Jul,1526.5,1446,1559,1561
+8/16/2022 9:15,Industrial Production MoM,Jul,0.3,0.6,-0.2,-0.08815
+8/17/2022 7:00,MBA Mortgage Applications,12-Aug,#N/A,-2.3,0.2,#N/A
+8/17/2022 8:30,Retail Sales Advance MoM,Jul,0.1,0,1,0.82974
+8/18/2022 8:30,Initial Jobless Claims,13-Aug,263.5,250,262,221
+8/18/2022 10:00,Existing Home Sales,Jul,4.86,4.81,5.12,5.1
+8/18/2022 10:00,Leading Index,Jul,-0.5,-0.4,-0.8,-0.7
+8/23/2022 9:45,S&P Global US Manufacturing PMI,Aug P,51.8,#N/A,52.2,#N/A
+8/23/2022 10:00,New Home Sales,Jul,575,511,590,563
+8/24/2022 7:00,MBA Mortgage Applications,19-Aug,#N/A,-1.2,-2.3,#N/A
+8/24/2022 8:30,Durable Goods Orders,Jul P,0.8,0,2,2.2
+8/25/2022 8:30,Initial Jobless Claims,20-Aug,252,243,250,220
+8/25/2022 8:30,GDP Annualized QoQ,2Q S,-0.7,-0.6,-0.9,#N/A
+8/26/2022 8:30,Personal Income,Jul,0.6,0.2,0.6,0.3862
+8/26/2022 8:30,Personal Spending,Jul,0.5,0.1,1.1,0.94987
+8/26/2022 8:30,Wholesale Inventories MoM,Jul P,1.4,0.8,1.8,1.9
+8/26/2022 10:00,U. of Mich. Sentiment,Aug F,55.45,58.2,55.1,#N/A
+8/30/2022 10:00,Conf. Board Consumer Confidence,Aug,98,103.2,95.7,95.3
+8/31/2022 7:00,MBA Mortgage Applications,26-Aug,#N/A,-3.7,-1.2,#N/A
+8/31/2022 8:15,ADP Employment Change,Aug,300,132,268,204
+8/31/2022 9:45,MNI Chicago PMI,Aug,52.1,52.2,52.1,52.26311018
+9/1/2022 8:30,Initial Jobless Claims,27-Aug,247.5,232,243,216
+9/1/2022 9:45,S&P Global US Manufacturing PMI,Aug F,51.3,51.5,52.2,51.5
+9/1/2022 10:00,ISM Manufacturing,Aug,51.9,52.8,52.8,52.8
+9/2/2022 8:30,Change in Nonfarm Payrolls,Aug,297.5,315,528,690
+9/2/2022 8:30,Unemployment Rate,Aug,3.5,3.7,3.5,#N/A
+9/2/2022 10:00,Durable Goods Orders,Jul F,0,-0.1,0,-0.80771
+9/2/2022 10:00,Factory Orders,Jul,0.2,-1,2,1.61436
+9/7/2022 7:00,MBA Mortgage Applications,2-Sep,#N/A,-0.8,-3.7,#N/A
+9/7/2022 8:30,Trade Balance,Jul,-70.2,-70.6,-79.6,-80.851
+9/8/2022 8:30,Initial Jobless Claims,3-Sep,235,222,232,210
+9/9/2022 10:00,Wholesale Inventories MoM,Jul F,0.8,0.6,0.8,0.58778
+9/13/2022 8:30,CPI MoM,Aug,-0.1,0.1,0,#N/A
+9/13/2022 8:30,CPI YoY,Aug,8.0725,8.3,8.5,#N/A
+9/14/2022 7:00,MBA Mortgage Applications,9-Sep,#N/A,-1.2,-0.8,#N/A
+9/14/2022 8:30,PPI Final Demand MoM,Aug,-0.1,-0.1,-0.5,-0.28183
+9/15/2022 8:30,Retail Sales Advance MoM,Aug,-0.1,0.3,0,-0.68962
+9/15/2022 8:30,Initial Jobless Claims,10-Sep,227,213,222,205
+9/15/2022 8:30,Empire Manufacturing,Sep,-12.9,-1.5,-31.3,#N/A
+9/15/2022 9:15,Industrial Production MoM,Aug,0,-0.2,0.6,0.43481
+9/16/2022 10:00,U. of Mich. Sentiment,Sep P,60,59.5,58.2,#N/A
+9/20/2022 8:30,Housing Starts,Aug,1450,1575,1446,1371
+9/21/2022 7:00,MBA Mortgage Applications,16-Sep,#N/A,3.8,-1.2,#N/A
+9/21/2022 10:00,Existing Home Sales,Aug,4.7,4.8,4.81,4.86
+9/21/2022 14:00,FOMC Rate Decision (Upper Bound),21-Sep,3.25,3.25,2.5,#N/A
+9/22/2022 8:30,Initial Jobless Claims,17-Sep,217,213,213,197
+9/22/2022 10:00,Leading Index,Aug,-0.1,-0.3,-0.4,-0.6
+9/23/2022 9:45,S&P Global US Manufacturing PMI,Sep P,51,#N/A,51.5,#N/A
+9/27/2022 8:30,Durable Goods Orders,Aug P,-0.3,-0.2,-0.1,#N/A
+9/27/2022 10:00,New Home Sales,Aug,500,685,511,543
+9/27/2022 10:00,Conf. Board Consumer Confidence,Sep,104.6,108,103.2,103.6
+9/28/2022 7:00,MBA Mortgage Applications,23-Sep,#N/A,-3.7,3.8,#N/A
+9/28/2022 8:30,Wholesale Inventories MoM,Aug P,0.4,1.3,0.6,#N/A
+9/29/2022 8:30,Initial Jobless Claims,24-Sep,215,193,213,202
+9/29/2022 8:30,GDP Annualized QoQ,2Q T,-0.6,-0.6,-0.6,#N/A
+9/30/2022 8:30,Personal Income,Aug,0.3,0.3,0.2,0.76194
+9/30/2022 8:30,Personal Spending,Aug,0.2,0.4,0.1,0.03644
+9/30/2022 9:45,MNI Chicago PMI,Sep,51.8,45.7,52.2,52.02266776
+9/30/2022 10:00,U. of Mich. Sentiment,Sep F,59.5,58.6,59.5,#N/A
+10/3/2022 9:45,S&P Global US Manufacturing PMI,Sep F,51.8,52,51.5,52
+10/3/2022 10:00,ISM Manufacturing,Sep,52,50.9,52.8,52.8
+10/4/2022 10:00,Durable Goods Orders,Aug F,-0.2,-0.2,-0.2,-0.14231
+10/4/2022 10:00,Factory Orders,Aug,0,0,-1,-1.64772
+10/5/2022 7:00,MBA Mortgage Applications,30-Sep,#N/A,-14.2,-3.7,#N/A
+10/5/2022 8:15,ADP Employment Change,Sep,200,208,132,282
+10/5/2022 8:30,Trade Balance,Aug,-67.7,-67.4,-70.65,-71.672
+10/6/2022 8:30,Initial Jobless Claims,1-Oct,204,219,193,187
+10/7/2022 8:30,Unemployment Rate,Sep,3.7,3.5,3.7,3.6
+10/7/2022 8:30,Change in Nonfarm Payrolls,Sep,255,263,315,243
+10/7/2022 10:00,Wholesale Inventories MoM,Aug F,1.3,1.3,1.3,1.28477
+10/12/2022 7:00,MBA Mortgage Applications,7-Oct,#N/A,-2,-14.2,#N/A
+10/12/2022 8:30,PPI Final Demand MoM,Sep,0.2,0.4,-0.1,-0.08296
+10/13/2022 8:30,CPI MoM,Sep,0.2,0.4,0.1,0.07866
+10/13/2022 8:30,Initial Jobless Claims,8-Oct,225,228,219,204
+10/13/2022 8:30,CPI YoY,Sep,8.1,8.2,8.3,#N/A
+10/14/2022 8:30,Retail Sales Advance MoM,Sep,0.2,0,0.3,0.72489
+10/14/2022 10:00,U. of Mich. Sentiment,Oct P,58.8,59.8,58.6,#N/A
+10/17/2022 8:30,Empire Manufacturing,Oct,-4.25,-9.1,-1.5,#N/A
+10/18/2022 9:15,Industrial Production MoM,Sep,0.1,0.4,-0.2,0.09851
+10/19/2022 7:00,MBA Mortgage Applications,14-Oct,#N/A,-4.5,-2,#N/A
+10/19/2022 8:30,Housing Starts,Sep,1461,1439,1575,1505
+10/20/2022 8:30,Initial Jobless Claims,15-Oct,233,214,228,207
+10/20/2022 10:00,Existing Home Sales,Sep,4.7,4.71,4.8,4.75
+10/20/2022 10:00,Leading Index,Sep,-0.3,-0.4,-0.3,-0.3
+10/24/2022 9:45,S&P Global US Manufacturing PMI,Oct P,51,#N/A,52,#N/A
+10/25/2022 10:00,Conf. Board Consumer Confidence,Oct,105.9,102.5,108,107.8
+10/26/2022 7:00,MBA Mortgage Applications,21-Oct,#N/A,-1.7,-4.5,#N/A
+10/26/2022 8:30,Wholesale Inventories MoM,Sep P,1,0.8,1.3,1.4
+10/26/2022 10:00,New Home Sales,Sep,580,603,685,638
+10/27/2022 8:30,Initial Jobless Claims,22-Oct,220,217,214,200
+10/27/2022 8:30,GDP Annualized QoQ,3Q A,2.35,2.6,-0.6,#N/A
+10/27/2022 8:30,Durable Goods Orders,Sep P,0.6,0.4,-0.2,0.2
+10/28/2022 8:30,Personal Income,Sep,0.4,0.4,0.3,0.51912
+10/28/2022 8:30,Personal Spending,Sep,0.4,0.6,0.4,0.77384
+10/28/2022 10:00,U. of Mich. Sentiment,Oct F,59.6,59.9,59.8,#N/A
+10/31/2022 9:45,MNI Chicago PMI,Oct,47.25,45.2,45.7,47.36741764
+11/1/2022 9:45,S&P Global US Manufacturing PMI,Oct F,49.9,50.4,52,50.4
+11/1/2022 10:00,ISM Manufacturing,Oct,50,50.2,50.9,50.8
+11/2/2022 7:00,MBA Mortgage Applications,28-Oct,#N/A,-0.5,-1.7,#N/A
+11/2/2022 8:15,ADP Employment Change,Oct,185,239,208,277
+11/2/2022 14:00,FOMC Rate Decision (Upper Bound),2-Nov,4,4,3.25,#N/A
+11/3/2022 8:30,Trade Balance,Sep,-72.2,-73.3,-67.4,-67.315
+11/3/2022 8:30,Initial Jobless Claims,29-Oct,220,217,217,201
+11/3/2022 10:00,Durable Goods Orders,Sep F,0.4,0.4,0.4,0.28866
+11/3/2022 10:00,Factory Orders,Sep,0.3,0.3,0,-0.0768
+11/4/2022 8:30,Change in Nonfarm Payrolls,Oct,193,261,263,255
+11/4/2022 8:30,Unemployment Rate,Oct,3.6,3.7,3.5,#N/A
+11/9/2022 7:00,MBA Mortgage Applications,4-Nov,#N/A,-0.1,-0.5,#N/A
+11/9/2022 10:00,Wholesale Inventories MoM,Sep F,0.8,0.6,0.8,0.29857
+11/10/2022 8:30,Initial Jobless Claims,5-Nov,220,225,217,202
+11/10/2022 8:30,CPI MoM,Oct,0.6,0.4,0.4,#N/A
+11/10/2022 8:30,CPI YoY,Oct,7.9,7.7,8.2,#N/A
+11/11/2022 10:00,U. of Mich. Sentiment,Nov P,59.5,54.7,59.9,#N/A
+11/15/2022 8:30,PPI Final Demand MoM,Oct,0.4,0.2,0.4,0.2654794
+11/15/2022 8:30,Empire Manufacturing,Nov,-6,4.5,-9.1,#N/A
+11/16/2022 7:00,MBA Mortgage Applications,11-Nov,#N/A,2.7,-0.1,#N/A
+11/16/2022 8:30,Retail Sales Advance MoM,Oct,1,1.3,0,-0.30136
+11/16/2022 9:15,Industrial Production MoM,Oct,0.1,-0.1,0.4,0.28469
+11/17/2022 8:30,Housing Starts,Oct,1410,1425,1439,1463
+11/17/2022 8:30,Initial Jobless Claims,12-Nov,228,222,225,204
+11/18/2022 10:00,Existing Home Sales,Oct,4.4,4.43,4.71,4.7
+11/18/2022 10:00,Leading Index,Oct,-0.4,-0.8,-0.4,-0.6
+11/23/2022 7:00,MBA Mortgage Applications,18-Nov,#N/A,2.2,2.7,#N/A
+11/23/2022 8:30,Initial Jobless Claims,19-Nov,225,240,222,208
+11/23/2022 8:30,Durable Goods Orders,Oct P,0.4,1,0.4,0.3
+11/23/2022 9:45,S&P Global US Manufacturing PMI,Nov P,50,#N/A,50.4,#N/A
+11/23/2022 10:00,U. of Mich. Sentiment,Nov F,55,56.8,54.7,56.7
+11/23/2022 10:00,New Home Sales,Oct,570,632,603,567
+11/29/2022 10:00,Conf. Board Consumer Confidence,Nov,100,100.2,102.5,102.2
+11/30/2022 7:00,MBA Mortgage Applications,25-Nov,#N/A,-0.8,2.2,#N/A
+11/30/2022 8:15,ADP Employment Change,Nov,200,127,239,200
+11/30/2022 8:30,GDP Annualized QoQ,3Q S,2.8,2.9,2.6,2.7
+11/30/2022 8:30,Wholesale Inventories MoM,Oct P,0.5,0.8,0.6,#N/A
+11/30/2022 9:45,MNI Chicago PMI,Nov,47,37.2,45.2,46.77865341
+12/1/2022 8:30,Initial Jobless Claims,26-Nov,235,225,240,219
+12/1/2022 8:30,Personal Income,Oct,0.4,0.7,0.4,0.44169
+12/1/2022 8:30,Personal Spending,Oct,0.8,0.8,0.6,#N/A
+12/1/2022 9:45,S&P Global US Manufacturing PMI,Nov F,47.6,47.7,50.4,47.7
+12/1/2022 10:00,ISM Manufacturing,Nov,49.7,49,50.2,50
+12/2/2022 8:30,Unemployment Rate,Nov,3.7,3.7,3.7,3.6
+12/2/2022 8:30,Change in Nonfarm Payrolls,Nov,200,263,261,361
+12/5/2022 10:00,Durable Goods Orders,Oct F,1,1.1,1,0.96246
+12/5/2022 10:00,Factory Orders,Oct,0.7,1,0.3,0.14016
+12/6/2022 8:30,Trade Balance,Oct,-80,-78.2,-73.3,-71.726
+12/7/2022 7:00,MBA Mortgage Applications,2-Dec,#N/A,-1.9,-0.8,#N/A
+12/8/2022 8:30,Initial Jobless Claims,3-Dec,230,230,225,209
+12/9/2022 8:30,PPI Final Demand MoM,Nov,0.2,0.3,0.2,0.37749
+12/9/2022 10:00,Wholesale Inventories MoM,Oct F,0.8,0.5,0.8,0.60505
+12/9/2022 10:00,U. of Mich. Sentiment,Dec P,57,59.1,56.8,#N/A
+12/13/2022 8:30,CPI MoM,Nov,0.3,0.1,0.4,0.4883
+12/13/2022 8:30,CPI YoY,Nov,7.3,7.1,7.7,#N/A
+12/14/2022 7:00,MBA Mortgage Applications,9-Dec,#N/A,3.2,-1.9,#N/A
+12/14/2022 14:00,FOMC Rate Decision (Upper Bound),14-Dec,4.5,4.5,4,#N/A
+12/15/2022 8:30,Retail Sales Advance MoM,Nov,-0.2,-0.6,1.3,1.4966
+12/15/2022 8:30,Initial Jobless Claims,10-Dec,232,211,230,210
+12/15/2022 8:30,Empire Manufacturing,Dec,-1,-11.2,4.5,#N/A
+12/15/2022 9:15,Industrial Production MoM,Nov,0,-0.2,-0.1,-0.11291
+12/16/2022 9:45,S&P Global US Manufacturing PMI,Dec P,47.75,#N/A,47.7,#N/A
+12/20/2022 8:30,Housing Starts,Nov,1400,1427,1425,1432
+12/21/2022 7:00,MBA Mortgage Applications,16-Dec,#N/A,0.9,3.2,#N/A
+12/21/2022 10:00,Existing Home Sales,Nov,4.2,4.09,4.43,4.49
+12/21/2022 10:00,Conf. Board Consumer Confidence,Dec,101,108.3,100.2,101.4
+12/22/2022 8:30,Initial Jobless Claims,17-Dec,222,216,211,211
+12/22/2022 8:30,GDP Annualized QoQ,3Q T,2.9,3.2,2.9,#N/A
+12/22/2022 10:00,Leading Index,Nov,-0.5,-1,-0.8,-0.9
+12/23/2022 8:30,Personal Income,Nov,0.3,0.4,0.7,0.54554
+12/23/2022 8:30,Personal Spending,Nov,0.2,0.1,0.8,0.62415
+12/23/2022 8:30,Durable Goods Orders,Nov P,-1,-2.1,1.1,0.7
+12/23/2022 10:00,U. of Mich. Sentiment,Dec F,59.1,59.7,59.1,59.8
+12/23/2022 10:00,New Home Sales,Nov,600,640,632,577
+12/27/2022 8:30,Wholesale Inventories MoM,Nov P,0.3,1,0.5,0.6
+12/29/2022 8:30,Initial Jobless Claims,24-Dec,225,225,216,211
+12/30/2022 9:45,MNI Chicago PMI,Dec,40,44.9,37.2,37.7956917
+1/3/2023 9:45,S&P Global US Manufacturing PMI,Dec F,46.2,46.2,47.7,46.2
+1/4/2023 7:00,MBA Mortgage Applications,30-Dec,#N/A,-10.3,-3.2,#N/A
+1/4/2023 10:00,ISM Manufacturing,Dec,48.5,48.4,49,48.9
+1/5/2023 8:15,ADP Employment Change,Dec,150,235,127,195
+1/5/2023 8:30,Initial Jobless Claims,31-Dec,225,204,225,207
+1/5/2023 8:30,Trade Balance,Nov,-63,-61.5,-78.2,-78.329
+1/6/2023 8:30,Change in Nonfarm Payrolls,Dec,205,223,263,258
+1/6/2023 8:30,Unemployment Rate,Dec,3.7,3.5,3.7,3.6
+1/6/2023 10:00,Durable Goods Orders,Nov F,-2.1,-2.1,-2.1,-3.13416
+1/6/2023 10:00,Factory Orders,Nov,-1,-1.8,1,0.91876
+1/10/2023 10:00,Wholesale Inventories MoM,Nov F,1,1,1,0.6008
+1/11/2023 7:00,MBA Mortgage Applications,6-Jan,#N/A,1.2,-10.3,#N/A
+1/12/2023 8:30,Initial Jobless Claims,7-Jan,215,205,204,203
+1/12/2023 8:30,CPI MoM,Dec,-0.1,-0.1,0.1,0.26355
+1/12/2023 8:30,CPI YoY,Dec,6.5,6.5,7.1,#N/A
+1/13/2023 10:00,U. of Mich. Sentiment,Jan P,60.7,64.6,59.7,#N/A
+1/17/2023 8:30,Empire Manufacturing,Jan,-8.7,-32.9,-11.2,#N/A
+1/18/2023 7:00,MBA Mortgage Applications,13-Jan,#N/A,27.9,1.2,#N/A
+1/18/2023 8:30,Retail Sales Advance MoM,Dec,-0.9,-1.1,-0.6,-1.35207
+1/18/2023 8:30,PPI Final Demand MoM,Dec,-0.1,-0.5,0.3,0.3804065
+1/18/2023 9:15,Industrial Production MoM,Dec,-0.1,-0.7,-0.2,-0.33259
+1/19/2023 8:30,Initial Jobless Claims,14-Jan,213.5,190,205,207
+1/19/2023 8:30,Housing Starts,Dec,1358,1382,1427,1427
+1/20/2023 10:00,Existing Home Sales,Dec,3.95,4.02,4.09,4.19
+1/23/2023 10:00,Leading Index,Dec,-0.7,-0.8,-1,-1
+1/24/2023 9:45,S&P Global US Manufacturing PMI,Jan P,46,#N/A,46.2,#N/A
+1/25/2023 7:00,MBA Mortgage Applications,20-Jan,#N/A,7,27.9,28.1
+1/26/2023 8:30,Initial Jobless Claims,21-Jan,205,186,190,203
+1/26/2023 8:30,GDP Annualized QoQ,4Q A,2.6,2.9,3.2,#N/A
+1/26/2023 8:30,Wholesale Inventories MoM,Dec P,0.5,0.1,1,0.9
+1/26/2023 8:30,Durable Goods Orders,Dec P,2.5,5.6,-2.1,-1.7
+1/26/2023 10:00,New Home Sales,Dec,612,616,640,582
+1/27/2023 8:30,Personal Spending,Dec,-0.2,-0.2,0.1,-0.12621
+1/27/2023 8:30,Personal Income,Dec,0.2,0.2,0.4,0.11456
+1/27/2023 10:00,U. of Mich. Sentiment,Jan F,64.6,64.9,64.6,#N/A
+1/31/2023 9:45,MNI Chicago PMI,Jan,45,44.3,44.9,45.21575333
+1/31/2023 10:00,Conf. Board Consumer Confidence,Jan,109,107.1,108.3,109
+2/1/2023 7:00,MBA Mortgage Applications,27-Jan,#N/A,-9,7,#N/A
+2/1/2023 8:15,ADP Employment Change,Jan,180,106,235,306
+2/1/2023 9:45,S&P Global US Manufacturing PMI,Jan F,46.8,46.9,46.2,46.9
+2/1/2023 10:00,ISM Manufacturing,Jan,48,47.4,48.4,48.1
+2/1/2023 14:00,FOMC Rate Decision (Upper Bound),1-Feb,4.75,4.75,4.5,#N/A
+2/2/2023 8:30,Initial Jobless Claims,28-Jan,195,183,186,202
+2/2/2023 10:00,Durable Goods Orders,Dec F,5.6,5.6,5.6,4.51585
+2/2/2023 10:00,Factory Orders,Dec,2.3,1.8,-1.8,-2.40629
+2/3/2023 8:30,Change in Nonfarm Payrolls,Jan,189,517,223,136
+2/3/2023 8:30,Unemployment Rate,Jan,3.6,3.4,3.5,#N/A
+2/7/2023 8:30,Trade Balance,Dec,-68.5,-67.4,-61.5,-63.818
+2/8/2023 7:00,MBA Mortgage Applications,3-Feb,#N/A,7.4,-9,#N/A
+2/8/2023 10:00,Wholesale Inventories MoM,Dec F,0.1,0.1,0.1,-0.07275
+2/9/2023 8:30,Initial Jobless Claims,4-Feb,190,196,183,199
+2/10/2023 10:00,U. of Mich. Sentiment,Feb P,65,66.4,64.9,#N/A
+2/14/2023 8:30,CPI MoM,Jan,0.5,0.5,-0.1,0.13128
+2/14/2023 8:30,CPI YoY,Jan,6.2,6.4,6.5,#N/A
+2/15/2023 7:00,MBA Mortgage Applications,10-Feb,#N/A,-7.7,7.4,3.5
+2/15/2023 8:30,Retail Sales Advance MoM,Jan,2,3,-1.1,-1.24867
+2/15/2023 8:30,Empire Manufacturing,Feb,-18,-5.8,-32.9,#N/A
+2/15/2023 9:15,Industrial Production MoM,Jan,0.5,0,-0.7,-1.54824
+2/16/2023 8:30,Initial Jobless Claims,11-Feb,200,194,196,214
+2/16/2023 8:30,PPI Final Demand MoM,Jan,0.4,0.7,-0.5,-0.3215938
+2/16/2023 8:30,Housing Starts,Jan,1356,1309,1382,1357
+2/17/2023 10:00,Leading Index,Jan,-0.3,-0.3,-0.8,-0.7
+2/21/2023 9:45,S&P Global US Manufacturing PMI,Feb P,47.2,#N/A,46.9,#N/A
+2/21/2023 10:00,Existing Home Sales,Jan,4.1,4,4.02,4.12
+2/22/2023 7:00,MBA Mortgage Applications,17-Feb,#N/A,-13.3,-7.7,-10.9
+2/23/2023 8:30,Initial Jobless Claims,18-Feb,200,192,194,217
+2/23/2023 8:30,GDP Annualized QoQ,4Q S,2.9,2.7,2.9,#N/A
+2/24/2023 8:30,Personal Spending,Jan,1.4,1.8,-0.2,0.28559
+2/24/2023 8:30,Personal Income,Jan,1,0.6,0.2,0.18797
+2/24/2023 10:00,New Home Sales,Jan,620,670,616,636
+2/24/2023 10:00,U. of Mich. Sentiment,Feb F,66.4,67,66.4,66.9
+2/27/2023 8:30,Durable Goods Orders,Jan P,-4,-4.5,5.6,5.1
+2/28/2023 8:30,Wholesale Inventories MoM,Jan P,0.1,-0.4,0.1,#N/A
+2/28/2023 9:45,MNI Chicago PMI,Feb,45.5,43.6,44.3,43.79913655
+2/28/2023 10:00,Conf. Board Consumer Confidence,Feb,108.5,102.9,107.1,106
+3/1/2023 7:00,MBA Mortgage Applications,24-Feb,#N/A,-5.7,-13.3,-7.2
+3/1/2023 9:45,S&P Global US Manufacturing PMI,Feb F,47.8,47.3,46.9,47.3
+3/1/2023 10:00,ISM Manufacturing,Feb,48,47.7,47.4,#N/A
+3/2/2023 8:30,Initial Jobless Claims,25-Feb,195,190,192,215
+3/6/2023 10:00,Durable Goods Orders,Jan F,-4.5,-4.5,-4.5,-1.27462
+3/6/2023 10:00,Factory Orders,Jan,-1.8,-1.6,1.8,1.04556
+3/7/2023 10:00,Wholesale Inventories MoM,Jan F,-0.4,-0.4,-0.4,-0.6765
+3/8/2023 7:00,MBA Mortgage Applications,3-Mar,#N/A,7.4,-5.7,-5.9
+3/8/2023 8:15,ADP Employment Change,Feb,200,242,106,131
+3/8/2023 8:30,Trade Balance,Jan,-68.7,-68.3,-67.4,-71.386
+3/9/2023 8:30,Initial Jobless Claims,4-Mar,195,211,190,208
+3/10/2023 8:30,Change in Nonfarm Payrolls,Feb,225,311,517,482
+3/10/2023 8:30,Unemployment Rate,Feb,3.4,3.6,3.4,#N/A
+3/14/2023 8:30,CPI MoM,Feb,0.4,0.4,0.5,#N/A
+3/14/2023 8:30,CPI YoY,Feb,6,6,6.4,#N/A
+3/15/2023 7:00,MBA Mortgage Applications,10-Mar,#N/A,6.5,7.4,#N/A
+3/15/2023 8:30,Retail Sales Advance MoM,Feb,-0.4,-0.4,3,3.85645
+3/15/2023 8:30,PPI Final Demand MoM,Feb,0.3,-0.1,0.7,0.4327381
+3/15/2023 8:30,Empire Manufacturing,Mar,-7.9,-24.6,-5.8,#N/A
+3/16/2023 8:30,Initial Jobless Claims,11-Mar,205,192,211,227
+3/16/2023 8:30,Housing Starts,Feb,1310,1450,1309,1340
+3/17/2023 9:15,Industrial Production MoM,Feb,0.2,0,0,1.00735
+3/17/2023 10:00,Leading Index,Feb,-0.3,-0.3,-0.3,-0.5
+3/17/2023 10:00,U. of Mich. Sentiment,Mar P,67,63.4,67,#N/A
+3/21/2023 10:00,Existing Home Sales,Feb,4.2,4.58,4,4.07
+3/22/2023 7:00,MBA Mortgage Applications,17-Mar,#N/A,3,6.5,#N/A
+3/22/2023 14:00,FOMC Rate Decision (Upper Bound),22-Mar,5,5,4.75,#N/A
+3/23/2023 8:30,Initial Jobless Claims,18-Mar,197,191,192,221
+3/23/2023 10:00,New Home Sales,Feb,649.5,640,670,649
+3/24/2023 8:30,Durable Goods Orders,Feb P,0.2,-1,-4.5,-5
+3/24/2023 9:45,S&P Global US Manufacturing PMI,Mar P,47,#N/A,47.3,#N/A
+3/28/2023 8:30,Wholesale Inventories MoM,Feb P,-0.1,0.2,-0.4,-0.5
+3/28/2023 10:00,Conf. Board Consumer Confidence,Mar,101,104.2,102.9,103.4
+3/29/2023 7:00,MBA Mortgage Applications,24-Mar,#N/A,2.9,3,#N/A
+3/30/2023 8:30,Initial Jobless Claims,25-Mar,196,198,191,228
+3/30/2023 8:30,GDP Annualized QoQ,4Q T,2.7,2.6,2.7,#N/A
+3/31/2023 8:30,Personal Spending,Feb,0.3,0.2,1.8,1.59408
+3/31/2023 8:30,Personal Income,Feb,0.2,0.3,0.6,0.95466
+3/31/2023 9:45,MNI Chicago PMI,Mar,43,43.8,43.6,43.00692948
+3/31/2023 10:00,U. of Mich. Sentiment,Mar F,63.25,62,63.4,#N/A
+4/3/2023 9:45,S&P Global US Manufacturing PMI,Mar F,49.3,49.2,47.3,49.2
+4/3/2023 10:00,ISM Manufacturing,Mar,47.5,46.3,47.7,47.7
+4/4/2023 10:00,Durable Goods Orders,Feb F,-1,-1,-1,-2.71112
+4/4/2023 10:00,Factory Orders,Feb,-0.5,-0.7,-1.6,0.02255
+4/5/2023 7:00,MBA Mortgage Applications,31-Mar,#N/A,-4.1,2.9,#N/A
+4/5/2023 8:15,ADP Employment Change,Mar,210,145,242,275
+4/5/2023 8:30,Trade Balance,Feb,-68.8,-70.5,-68.3,-70.296
+4/6/2023 8:30,Initial Jobless Claims,1-Apr,200,228,198,232
+4/7/2023 8:30,Change in Nonfarm Payrolls,Mar,230,236,311,287
+4/7/2023 8:30,Unemployment Rate,Mar,3.6,3.5,3.6,#N/A
+4/10/2023 10:00,Wholesale Inventories MoM,Feb F,0.2,0.1,0.2,-0.17551
+4/12/2023 7:00,MBA Mortgage Applications,7-Apr,#N/A,5.3,-4.1,#N/A
+4/12/2023 8:30,CPI MoM,Mar,0.2,0.1,0.4,#N/A
+4/12/2023 8:30,CPI YoY,Mar,5.1,5,6,#N/A
+4/13/2023 8:30,PPI Final Demand MoM,Mar,0,-0.5,-0.1,-0.02548062
+4/13/2023 8:30,Initial Jobless Claims,8-Apr,235,239,228,216
+4/14/2023 8:30,Retail Sales Advance MoM,Mar,-0.45,-1,-0.4,-0.86887
+4/14/2023 9:15,Industrial Production MoM,Mar,0.2,0.4,0,0.00429
+4/14/2023 10:00,U. of Mich. Sentiment,Apr P,62.1,63.5,62,#N/A
+4/17/2023 8:30,Empire Manufacturing,Apr,-18,10.8,-24.6,#N/A
+4/18/2023 8:30,Housing Starts,Mar,1400,1420,1450,1436
+4/19/2023 7:00,MBA Mortgage Applications,45396,#N/A,-8.8,5.3,#N/A
+4/20/2023 8:30,Initial Jobless Claims,45397,240,245,239,220
+4/20/2023 10:00,Existing Home Sales,Mar,4.5,4.44,4.58,4.53
+4/20/2023 10:00,Leading Index,Mar,-0.7,-1.2,-0.3,-0.6
+4/21/2023 9:45,S&P Global US Manufacturing PMI,Apr P,49,#N/A,49.2,#N/A
+4/25/2023 10:00,New Home Sales,Mar,632,683,640,625
+4/25/2023 10:00,Conf. Board Consumer Confidence,Apr,104,101.3,104.2,104
+4/26/2023 7:00,MBA Mortgage Applications,45403,#N/A,3.7,-8.8,#N/A
+4/26/2023 8:30,Wholesale Inventories MoM,Mar P,0.1,0.1,0.1,#N/A
+4/26/2023 8:30,Durable Goods Orders,Mar P,0.7,3.2,-1,-1.2
+4/27/2023 8:30,Initial Jobless Claims,45404,248,230,245,224
+4/27/2023 8:30,GDP Annualized QoQ,1Q A,1.9,1.1,2.6,#N/A
+4/28/2023 8:30,Personal Spending,Mar,-0.1,0,0.2,0.36722
+4/28/2023 8:30,Personal Income,Mar,0.2,0.3,0.3,0.54639
+4/28/2023 9:45,MNI Chicago PMI,Apr,43.6,48.6,43.8,43.12964711
+4/28/2023 10:00,U. of Mich. Sentiment,Apr F,63.5,63.5,63.5,63.7
+5/1/2023 9:45,S&P Global US Manufacturing PMI,Apr F,50.4,50.2,49.2,50.2
+5/1/2023 10:00,ISM Manufacturing,Apr,46.8,47.1,46.3,46.5
+5/2/2023 10:00,Durable Goods Orders,Mar F,3.2,3.2,3.2,3.34644
+5/2/2023 10:00,Factory Orders,Mar,1.2,0.9,-0.7,-1.68385
+5/3/2023 7:00,MBA Mortgage Applications,45410,#N/A,-1.2,3.7,#N/A
+5/3/2023 8:15,ADP Employment Change,Apr,150,296,145,103
+5/3/2023 14:00,FOMC Rate Decision (Upper Bound),45415,5.25,5.25,5,#N/A
+5/4/2023 8:30,Initial Jobless Claims,45411,240,242,230,209
+5/4/2023 8:30,Trade Balance,Mar,-63.1,-64.2,-70.5,-70.072
+5/5/2023 8:30,Change in Nonfarm Payrolls,Apr,185,253,236,146
+5/5/2023 8:30,Unemployment Rate,Apr,3.6,3.4,3.5,#N/A
+5/8/2023 10:00,Wholesale Inventories MoM,Mar F,0.1,0,0.1,-0.23193
+5/10/2023 7:00,MBA Mortgage Applications,45417,#N/A,6.3,-1.2,#N/A
+5/10/2023 8:30,CPI MoM,Apr,0.4,0.4,0.1,#N/A
+5/10/2023 8:30,CPI YoY,Apr,5,4.9,5,#N/A
+5/11/2023 8:30,Initial Jobless Claims,45418,245,264,242,214
+5/11/2023 8:30,PPI Final Demand MoM,Apr,0.3,0.2,-0.5,-0.4
+5/12/2023 10:00,U. of Mich. Sentiment,May P,63,57.7,63.5,#N/A
+5/15/2023 8:30,Empire Manufacturing,May,-3.9,-31.8,10.8,#N/A
+5/16/2023 8:30,Retail Sales Advance MoM,Apr,0.8,0.4,-1,-1.1273
+5/16/2023 9:15,Industrial Production MoM,Apr,0,0.5,0.4,0.14615
+5/17/2023 7:00,MBA Mortgage Applications,45424,#N/A,-5.7,6.3,#N/A
+5/17/2023 8:30,Housing Starts,Apr,1400,1401,1420,1380
+5/18/2023 8:30,Initial Jobless Claims,45425,251.463,242,264,225
+5/18/2023 10:00,Existing Home Sales,Apr,4.3,4.28,4.44,4.35
+5/18/2023 10:00,Leading Index,Apr,-0.6,-0.6,-1.2,#N/A
+5/23/2023 9:45,S&P Global US Manufacturing PMI,May P,50,#N/A,50.2,#N/A
+5/23/2023 10:00,New Home Sales,Apr,665,683,683,640
+5/24/2023 7:00,MBA Mortgage Applications,45431,#N/A,-4.6,-5.7,#N/A
+5/25/2023 8:30,GDP Annualized QoQ,1Q S,1.1,1.3,1.1,2.2
+5/25/2023 8:30,Initial Jobless Claims,45432,245,229,242,225
+5/26/2023 8:30,Personal Spending,Apr,0.5,0.8,0,-0.07646
+5/26/2023 8:30,Personal Income,Apr,0.4,0.4,0.3,0.48362
+5/26/2023 8:30,Durable Goods Orders,Apr P,-1,1.1,3.2,3.3
+5/26/2023 8:30,Wholesale Inventories MoM,Apr P,0,-0.2,0,-0.3
+5/26/2023 10:00,U. of Mich. Sentiment,May F,58,59.2,57.7,59
+5/30/2023 10:00,Conf. Board Consumer Confidence,May,99,102.3,101.3,103.7
+5/31/2023 7:00,MBA Mortgage Applications,45438,#N/A,-3.7,-4.6,#N/A
+5/31/2023 9:45,MNI Chicago PMI,May,47.25,40.4,48.6,46.7894501
+6/1/2023 8:15,ADP Employment Change,May,170,278,296,293
+6/1/2023 8:30,Initial Jobless Claims,45439,234.5,232,229,227
+6/1/2023 9:45,S&P Global US Manufacturing PMI,May F,48.5,48.4,50.2,48.4
+6/1/2023 10:00,ISM Manufacturing,May,47,46.9,47.1,47
+6/2/2023 8:30,Change in Nonfarm Payrolls,May,195,339,253,278
+6/2/2023 8:30,Unemployment Rate,May,3.5,3.7,3.4,#N/A
+6/5/2023 10:00,Durable Goods Orders,Apr F,1.1,1.1,1.1,1.21356
+6/5/2023 10:00,Factory Orders,Apr,0.8,0.4,0.9,0.6
+6/7/2023 7:00,MBA Mortgage Applications,45445,#N/A,-1.4,-3.7,#N/A
+6/7/2023 8:30,Trade Balance,Apr,-75.8,-74.6,-64.2,-59.578
+6/8/2023 8:30,Initial Jobless Claims,45446,235,261,232,231
+6/8/2023 10:00,Wholesale Inventories MoM,Apr F,-0.2,-0.1,-0.2,-0.39748
+6/13/2023 8:30,CPI MoM,May,0.11,0.1,0.4,#N/A
+6/13/2023 8:30,CPI YoY,May,4.1,4,4.9,#N/A
+6/14/2023 7:00,MBA Mortgage Applications,45452,#N/A,7.2,-1.4,#N/A
+6/14/2023 8:30,PPI Final Demand MoM,May,-0.1,-0.3,0.2,0.184726
+6/14/2023 14:00,FOMC Rate Decision (Upper Bound),45457,5.25,5.25,5.25,#N/A
+6/15/2023 8:30,Initial Jobless Claims,45453,245,262,261,255
+6/15/2023 8:30,Retail Sales Advance MoM,May,-0.2,0.3,0.4,#N/A
+6/15/2023 8:30,Empire Manufacturing,Jun,-15.1,6.6,-31.8,#N/A
+6/15/2023 9:15,Industrial Production MoM,May,0.05,-0.2,0.5,0.46725
+6/16/2023 10:00,U. of Mich. Sentiment,Jun P,60,63.9,59.2,#N/A
+6/20/2023 8:30,Housing Starts,May,1400,1631,1401,1348
+6/21/2023 7:00,MBA Mortgage Applications,45459,#N/A,0.5,7.2,#N/A
+6/22/2023 8:30,Initial Jobless Claims,45460,259,264,262,260
+6/22/2023 10:00,Existing Home Sales,May,4.25,4.3,4.28,4.22
+6/22/2023 10:00,Leading Index,May,-0.8,-0.7,-0.6,-0.7
+6/23/2023 9:45,S&P Global US Manufacturing PMI,Jun P,48.5,#N/A,48.4,#N/A
+6/27/2023 8:30,Durable Goods Orders,May P,-0.9,1.7,1.1,1.2
+6/27/2023 10:00,New Home Sales,May,676,763,683,679
+6/27/2023 10:00,Conf. Board Consumer Confidence,Jun,104,109.7,102.3,102.5
+6/28/2023 7:00,MBA Mortgage Applications,45466,#N/A,3,0.5,#N/A
+6/28/2023 8:30,Wholesale Inventories MoM,May P,-0.1,-0.1,-0.1,-0.3
+6/29/2023 8:30,Initial Jobless Claims,45467,265,239,264,261
+6/29/2023 8:30,GDP Annualized QoQ,1Q T,1.4,2,1.3,#N/A
+6/30/2023 8:30,Personal Spending,May,0.2,0.1,0.8,0.44457
+6/30/2023 8:30,Personal Income,May,0.3,0.4,0.4,0.21158
+6/30/2023 9:45,MNI Chicago PMI,Jun,43.8,41.5,40.4,40.82128126
+6/30/2023 10:00,U. of Mich. Sentiment,Jun F,63.9,64.4,63.9,64.2
+7/3/2023 9:45,S&P Global US Manufacturing PMI,Jun F,46.3,46.3,48.4,46.3
+7/3/2023 10:00,ISM Manufacturing,Jun,47.1,46,46.9,46.6
+7/5/2023 10:00,Durable Goods Orders,May F,1.7,1.8,1.7,1.97627
+7/5/2023 10:00,Factory Orders,May,0.8,0.3,0.4,0.3
+7/6/2023 7:00,MBA Mortgage Applications,45473,#N/A,-4.4,3,#N/A
+7/6/2023 8:15,ADP Employment Change,Jun,225,497,278,206
+7/6/2023 8:30,Initial Jobless Claims,45474,245,248,239,238
+7/6/2023 8:30,Trade Balance,May,-69,-68.982,-74.6,-72.17
+7/7/2023 8:30,Change in Nonfarm Payrolls,Jun,230,209,339,303
+7/7/2023 8:30,Unemployment Rate,Jun,3.6,3.6,3.7,#N/A
+7/10/2023 10:00,Wholesale Inventories MoM,May F,-0.1,0,-0.1,-0.41523
+7/12/2023 7:00,MBA Mortgage Applications,45480,#N/A,0.9,-4.4,#N/A
+7/12/2023 8:30,CPI MoM,Jun,0.295,0.2,0.1,#N/A
+7/12/2023 8:30,CPI YoY,Jun,3.1,3,4,#N/A
+7/13/2023 8:30,PPI Final Demand MoM,Jun,0.2,0.1,-0.3,-0.22202
+7/13/2023 8:30,Initial Jobless Claims,45481,250,237,248,248
+7/14/2023 10:00,U. of Mich. Sentiment,Jul P,65.5,72.6,64.4,#N/A
+7/17/2023 8:30,Empire Manufacturing,Jul,-3.5,1.1,6.6,#N/A
+7/18/2023 8:30,Retail Sales Advance MoM,Jun,0.5,0.2,0.3,0.6605
+7/18/2023 9:15,Industrial Production MoM,Jun,0,-0.5,-0.2,-0.22026
+7/19/2023 7:00,MBA Mortgage Applications,45487,#N/A,1.1,0.9,#N/A
+7/19/2023 8:30,Housing Starts,Jun,1480,1434,1631,1583
+7/20/2023 8:30,Initial Jobless Claims,45488,240,228,237,232
+7/20/2023 10:00,Existing Home Sales,Jun,4.2,4.16,4.3,4.23
+7/20/2023 10:00,Leading Index,Jun,-0.6,-0.7,-0.7,-0.7
+7/24/2023 9:45,S&P Global US Manufacturing PMI,Jul P,46.15,#N/A,46.3,#N/A
+7/25/2023 10:00,Conf. Board Consumer Confidence,Jul,112,117,109.7,110.1
+7/26/2023 7:00,MBA Mortgage Applications,45494,#N/A,-1.8,1.1,#N/A
+7/26/2023 10:00,New Home Sales,Jun,725,697,763,710
+7/26/2023 14:00,FOMC Rate Decision (Upper Bound),45499,5.5,5.5,5.25,#N/A
+7/27/2023 8:30,Initial Jobless Claims,45495,235,221,228,231
+7/27/2023 8:30,GDP Annualized QoQ,2Q A,1.8,2.4,2,#N/A
+7/27/2023 8:30,Durable Goods Orders,Jun P,1.3,4.7,1.8,2
+7/27/2023 8:30,Wholesale Inventories MoM,Jun P,-0.1,-0.3,0,-0.3
+7/28/2023 8:30,Personal Income,Jun,0.5,0.3,0.4,0.33879
+7/28/2023 8:30,Personal Spending,Jun,0.4,0.5,0.1,0.2
+7/28/2023 10:00,U. of Mich. Sentiment,Jul F,72.6,71.6,72.6,71.5
+7/31/2023 9:45,MNI Chicago PMI,Jul,43.45,42.8,41.5,41.84689116
+8/1/2023 9:45,S&P Global US Manufacturing PMI,Jul F,49,49,46.3,49
+8/1/2023 10:00,ISM Manufacturing,Jul,46.9,46.4,46,46.4
+8/2/2023 7:00,MBA Mortgage Applications,45501,#N/A,-3,-1.8,#N/A
+8/2/2023 8:15,ADP Employment Change,Jul,190,324,497,543
+8/3/2023 8:30,Initial Jobless Claims,45502,225,227,221,231
+8/3/2023 10:00,Durable Goods Orders,Jun F,4.7,4.6,4.7,4.29451
+8/3/2023 10:00,Factory Orders,Jun,2.3,2.3,0.3,0.4
+8/4/2023 8:30,Change in Nonfarm Payrolls,Jul,200,187,209,240.00002
+8/4/2023 8:30,Unemployment Rate,Jul,3.6,3.5,3.6,#N/A
+8/8/2023 8:30,Trade Balance,Jun,-65,-65.497,-68.982,-66.247
+8/8/2023 10:00,Wholesale Inventories MoM,Jun F,-0.3,-0.5,-0.3,-0.47357
+8/9/2023 7:00,MBA Mortgage Applications,45508,#N/A,-3.1,-3,#N/A
+8/10/2023 8:30,Initial Jobless Claims,45509,230,248,227,240
+8/10/2023 8:30,CPI MoM,Jul,0.2,0.2,0.2,#N/A
+8/10/2023 8:30,CPI YoY,Jul,3.3,3.2,3,#N/A
+8/11/2023 8:30,PPI Final Demand MoM,Jul,0.2,0.3,0.1,0.00568
+8/11/2023 10:00,U. of Mich. Sentiment,Aug P,71.15,71.2,71.6,#N/A
+8/15/2023 8:30,Retail Sales Advance MoM,Jul,0.4,0.7,0.2,0.19734
+8/15/2023 8:30,Empire Manufacturing,Aug,-1,-19,1.1,#N/A
+8/16/2023 7:00,MBA Mortgage Applications,45515,#N/A,-0.8,-3.1,#N/A
+8/16/2023 8:30,Housing Starts,Jul,1450,1452,1434,1418
+8/16/2023 9:15,Industrial Production MoM,Jul,0.3,1,-0.5,-0.60336
+8/17/2023 8:30,Initial Jobless Claims,45516,240,239,248,258
+8/17/2023 10:00,Leading Index,Jul,-0.4,-0.4,-0.7,-0.7
+8/22/2023 10:00,Existing Home Sales,Jul,4.15,4.07,4.16,4.11
+8/23/2023 7:00,MBA Mortgage Applications,45522,#N/A,-4.2,-0.8,#N/A
+8/23/2023 9:45,S&P Global US Manufacturing PMI,Aug P,49,#N/A,49,#N/A
+8/23/2023 10:00,New Home Sales,Jul,703,714,697,683
+8/24/2023 8:30,Initial Jobless Claims,45523,240,230,239,248
+8/24/2023 8:30,Durable Goods Orders,Jul P,-4,-5.2,4.6,4.4
+8/25/2023 10:00,U. of Mich. Sentiment,Aug F,71.2,69.5,71.2,69.4
+8/29/2023 10:00,Conf. Board Consumer Confidence,Aug,116,106.1,117,114
+8/30/2023 7:00,MBA Mortgage Applications,45529,#N/A,2.3,-4.2,#N/A
+8/30/2023 8:15,ADP Employment Change,Aug,195,177,324,307
+8/30/2023 8:30,Wholesale Inventories MoM,Jul P,-0.3,-0.1,-0.5,-0.7
+8/30/2023 8:30,GDP Annualized QoQ,2Q S,2.4,2.1,2.4,#N/A
+8/31/2023 8:30,Personal Spending,Jul,0.7,0.8,0.5,0.42177
+8/31/2023 8:30,Personal Income,Jul,0.3,0.2,0.3,0.21135
+8/31/2023 8:30,Initial Jobless Claims,45530,235,228,230,241
+8/31/2023 9:45,MNI Chicago PMI,Aug,44.15,48.7,42.8,43.56866946
+9/1/2023 8:30,Change in Nonfarm Payrolls,Aug,170,187,187,184
+9/1/2023 8:30,Unemployment Rate,Aug,3.5,3.8,3.5,#N/A
+9/1/2023 9:45,S&P Global US Manufacturing PMI,Aug F,47,47.9,49,47.9
+9/1/2023 10:00,ISM Manufacturing,Aug,47,47.6,46.4,46.5
+9/5/2023 10:00,Durable Goods Orders,Jul F,-5.2,-5.2,-5.2,-5.63231
+9/5/2023 10:00,Factory Orders,Jul,-2.5,-2.1,2.3,#N/A
+9/6/2023 7:00,MBA Mortgage Applications,45536,#N/A,-2.9,2.3,#N/A
+9/6/2023 8:30,Trade Balance,Jul,-68,-65.022,-65.497,-63.484
+9/7/2023 8:30,Initial Jobless Claims,45537,233,216,228,234
+9/8/2023 10:00,Wholesale Inventories MoM,Jul F,-0.1,-0.2,-0.1,-0.26014
+9/13/2023 7:00,MBA Mortgage Applications,45543,#N/A,-0.8,-2.9,#N/A
+9/13/2023 8:30,CPI MoM,Aug,0.6,0.6,0.2,#N/A
+9/13/2023 8:30,CPI YoY,Aug,3.6,3.7,3.2,#N/A
+9/14/2023 8:30,Retail Sales Advance MoM,Aug,0.1,0.6,0.7,0.56435
+9/14/2023 8:30,PPI Final Demand MoM,Aug,0.4,0.7,0.3,0.56088
+9/14/2023 8:30,Initial Jobless Claims,45544,225,220,216,228
+9/15/2023 8:30,Empire Manufacturing,Sep,-10,1.9,-19,#N/A
+9/15/2023 9:15,Industrial Production MoM,Aug,0.1,0.4,1,0.9423
+9/15/2023 10:00,U. of Mich. Sentiment,Sep P,69,67.7,69.5,#N/A
+9/19/2023 8:30,Housing Starts,Aug,1439,1283,1452,1451
+9/20/2023 7:00,MBA Mortgage Applications,45550,#N/A,5.4,-0.8,#N/A
+9/20/2023 14:00,FOMC Rate Decision (Upper Bound),45555,5.5,5.5,5.5,#N/A
+9/21/2023 8:30,Initial Jobless Claims,45551,225,201,220,227
+9/21/2023 10:00,Existing Home Sales,Aug,4.1,4.04,4.07,4.05
+9/21/2023 10:00,Leading Index,Aug,-0.5,-0.4,-0.4,-0.3
+9/22/2023 9:45,S&P Global US Manufacturing PMI,Sep P,48.2,#N/A,47.9,#N/A
+9/26/2023 10:00,New Home Sales,Aug,698,675,714,728
+9/26/2023 10:00,Conf. Board Consumer Confidence,Sep,105.5,103,106.1,108.7
+9/27/2023 7:00,MBA Mortgage Applications,45557,#N/A,-1.3,5.4,#N/A
+9/27/2023 8:30,Durable Goods Orders,Aug P,-0.5,0.2,-5.2,-5.6
+9/28/2023 8:30,Initial Jobless Claims,45558,214.5,204,201,210
+9/28/2023 8:30,GDP Annualized QoQ,2Q T,2.2,2.1,2.1,#N/A
+9/29/2023 8:30,Personal Spending,Aug,0.5,0.4,0.8,0.59523
+9/29/2023 8:30,Personal Income,Aug,0.4,0.4,0.2,0.28357
+9/29/2023 8:30,Wholesale Inventories MoM,Aug P,-0.2,-0.1,-0.2,#N/A
+9/29/2023 9:45,MNI Chicago PMI,Sep,47.55,44.1,48.7,48.8251021
+9/29/2023 10:00,U. of Mich. Sentiment,Sep F,67.7,68.1,67.7,67.9
+10/2/2023 9:45,S&P Global US Manufacturing PMI,Sep F,48.9,49.8,47.9,49.8
+10/2/2023 10:00,ISM Manufacturing,Sep,47.9,49,47.6,#N/A
+10/4/2023 7:00,MBA Mortgage Applications,45564,#N/A,-6,-1.3,#N/A
+10/4/2023 8:15,ADP Employment Change,Sep,150,89,177,135
+10/4/2023 10:00,Durable Goods Orders,Aug F,0.2,0.1,0.2,-0.0897
+10/4/2023 10:00,Factory Orders,Aug,0.3,1.2,-2.1,#N/A
+10/5/2023 8:30,Initial Jobless Claims,45565,210,207,204,213
+10/5/2023 8:30,Trade Balance,Aug,-59.8,-58.303,-65.022,-64.967
+10/6/2023 8:30,Change in Nonfarm Payrolls,Sep,170,336,187,210
+10/6/2023 8:30,Unemployment Rate,Sep,3.7,3.8,3.8,#N/A
+10/10/2023 10:00,Wholesale Inventories MoM,Aug F,-0.1,-0.1,-0.1,-0.04135
+10/11/2023 7:00,MBA Mortgage Applications,45571,#N/A,0.6,-6,#N/A
+10/11/2023 8:30,PPI Final Demand MoM,Sep,0.3,0.5,0.7,0.63056
+10/12/2023 8:30,CPI MoM,Sep,0.3,0.4,0.6,0.51178
+10/12/2023 8:30,Initial Jobless Claims,45572,210,209,207,216
+10/12/2023 8:30,CPI YoY,Sep,3.6,3.7,3.7,#N/A
+10/13/2023 10:00,U. of Mich. Sentiment,Oct P,67,63,68.1,#N/A
+10/16/2023 8:30,Empire Manufacturing,Oct,-6,-4.6,1.9,#N/A
+10/17/2023 8:30,Retail Sales Advance MoM,Sep,0.3,0.7,0.6,0.73803
+10/17/2023 9:15,Industrial Production MoM,Sep,0,0.3,0.4,-0.07356
+10/18/2023 7:00,MBA Mortgage Applications,45578,#N/A,-6.9,0.6,#N/A
+10/18/2023 8:30,Housing Starts,Sep,1382.5,1358,1283,1305
+10/19/2023 8:30,Initial Jobless Claims,45579,210,198,209,211
+10/19/2023 10:00,Existing Home Sales,Sep,3.89,3.96,4.04,4.03
+10/19/2023 10:00,Leading Index,Sep,-0.4,-0.7,-0.4,-0.4
+10/24/2023 9:45,S&P Global US Manufacturing PMI,Oct P,49.5,#N/A,49.8,#N/A
+10/25/2023 7:00,MBA Mortgage Applications,45585,#N/A,-1,-6.9,#N/A
+10/25/2023 10:00,New Home Sales,Sep,680,759,675,654
+10/26/2023 8:30,Initial Jobless Claims,45586,207,210,198,202
+10/26/2023 8:30,Wholesale Inventories MoM,Sep P,0.1,0,-0.1,#N/A
+10/26/2023 8:30,GDP Annualized QoQ,3Q A,4.5,4.9,2.1,#N/A
+10/26/2023 8:30,Durable Goods Orders,Sep P,1.9,4.7,0.1,-0.1
+10/27/2023 8:30,Personal Spending,Sep,0.5,0.7,0.4,0.30196
+10/27/2023 8:30,Personal Income,Sep,0.4,0.3,0.4,0.47051
+10/27/2023 10:00,U. of Mich. Sentiment,Oct F,63,63.8,63,#N/A
+10/31/2023 9:45,MNI Chicago PMI,Oct,45,44,44.1,44.89983455
+10/31/2023 10:00,Conf. Board Consumer Confidence,Oct,100.5,102.6,103,104.3
+11/1/2023 7:00,MBA Mortgage Applications,45592,#N/A,-2.1,-1,#N/A
+11/1/2023 8:15,ADP Employment Change,Oct,150,113,89,137
+11/1/2023 9:45,S&P Global US Manufacturing PMI,Oct F,50,50,49.8,50
+11/1/2023 10:00,ISM Manufacturing,Oct,49,46.7,49,48.6
+11/1/2023 14:00,FOMC Rate Decision (Upper Bound),45597,5.5,5.5,5.5,#N/A
+11/2/2023 8:30,Initial Jobless Claims,45593,210,217,210,213
+11/2/2023 10:00,Durable Goods Orders,Sep F,4.7,4.6,4.7,4.04625
+11/2/2023 10:00,Factory Orders,Sep,2.3,2.8,1.2,1
+11/3/2023 8:30,Change in Nonfarm Payrolls,Oct,180,150,336,246.00003
+11/3/2023 8:30,Unemployment Rate,Oct,3.8,3.9,3.8,#N/A
+11/7/2023 8:30,Trade Balance,Sep,-59.8,-61.542,-58.303,-58.947
+11/8/2023 7:00,MBA Mortgage Applications,45599,#N/A,2.5,-2.1,#N/A
+11/8/2023 10:00,Wholesale Inventories MoM,Sep F,0,0.2,0,0.003
+11/9/2023 8:30,Initial Jobless Claims,45600,218,217,217,216
+11/10/2023 10:00,U. of Mich. Sentiment,Nov P,63.65,60.4,63.8,#N/A
+11/14/2023 8:30,CPI MoM,Oct,0.1,0,0.4,#N/A
+11/14/2023 8:30,CPI YoY,Oct,3.3,3.2,3.7,#N/A
+11/15/2023 7:00,MBA Mortgage Applications,45606,#N/A,2.8,2.5,#N/A
+11/15/2023 8:30,Retail Sales Advance MoM,Oct,-0.3,-0.1,0.7,0.82398
+11/15/2023 8:30,PPI Final Demand MoM,Oct,0.1,-0.5,0.5,0.2142617
+11/15/2023 8:30,Empire Manufacturing,Nov,-3,9.1,-4.6,#N/A
+11/16/2023 8:30,Initial Jobless Claims,45607,220,231,217,216
+11/16/2023 9:15,Industrial Production MoM,Oct,-0.4,-0.6,0.3,0.17777
+11/17/2023 8:30,Housing Starts,Oct,1350,1372,1358,1356
+11/20/2023 10:00,Leading Index,Oct,-0.7,-0.8,-0.7,-0.8
+11/21/2023 10:00,Existing Home Sales,Oct,3.9,3.79,3.96,3.98
+11/22/2023 7:00,MBA Mortgage Applications,45613,#N/A,3,2.8,#N/A
+11/22/2023 8:30,Initial Jobless Claims,45614,227,209,231,228
+11/22/2023 8:30,Durable Goods Orders,Oct P,-3.2,-5.4,4.6,4
+11/22/2023 10:00,U. of Mich. Sentiment,Nov F,61,61.3,60.4,#N/A
+11/24/2023 9:45,S&P Global US Manufacturing PMI,Nov P,49.9,#N/A,50,#N/A
+11/27/2023 10:00,New Home Sales,Oct,720.5,679,759,698
+11/28/2023 10:00,Conf. Board Consumer Confidence,Nov,101,102,102.6,99.1
+11/29/2023 7:00,MBA Mortgage Applications,45620,#N/A,0.3,3,#N/A
+11/29/2023 8:30,Wholesale Inventories MoM,Oct P,0.2,-0.2,0.2,0.1
+11/29/2023 8:30,GDP Annualized QoQ,3Q S,5,5.2,4.9,#N/A
+11/30/2023 8:30,Personal Income,Oct,0.2,0.2,0.3,0.35394
+11/30/2023 8:30,Initial Jobless Claims,45621,218,218,209,213
+11/30/2023 8:30,Personal Spending,Oct,0.2,0.2,0.7,#N/A
+11/30/2023 9:45,MNI Chicago PMI,Nov,46,55.8,44,45.03208562
+12/1/2023 9:45,S&P Global US Manufacturing PMI,Nov F,49.5,49.4,50,49.4
+12/1/2023 10:00,ISM Manufacturing,Nov,47.8,46.7,46.7,46.9
+12/4/2023 10:00,Durable Goods Orders,Oct F,-5.4,-5.4,-5.4,-5.11977
+12/4/2023 10:00,Factory Orders,Oct,-3,-3.6,2.8,2.3
+12/6/2023 7:00,MBA Mortgage Applications,45627,#N/A,2.8,0.3,#N/A
+12/6/2023 8:15,ADP Employment Change,Nov,130,103,113,111
+12/6/2023 8:30,Trade Balance,Oct,-64.2,-64.255,-61.542,-61.943
+12/7/2023 8:30,Initial Jobless Claims,45628,220,220,218,213
+12/7/2023 10:00,Wholesale Inventories MoM,Oct F,-0.2,-0.4,-0.2,-0.3
+12/8/2023 8:30,Unemployment Rate,Nov,3.9,3.7,3.9,3.8
+12/8/2023 8:30,Change in Nonfarm Payrolls,Nov,185,199,150,165
+12/8/2023 10:00,U. of Mich. Sentiment,Dec P,62,69.4,61.3,#N/A
+12/12/2023 8:30,CPI MoM,Nov,0,0.1,0,0.07908
+12/12/2023 8:30,CPI YoY,Nov,3.1,3.1,3.2,#N/A
+12/13/2023 7:00,MBA Mortgage Applications,45634,#N/A,7.4,2.8,#N/A
+12/13/2023 8:30,PPI Final Demand MoM,Nov,0,0,-0.5,-0.3273637
+12/13/2023 14:00,FOMC Rate Decision (Upper Bound),45639,5.5,5.5,5.5,#N/A
+12/14/2023 8:30,Retail Sales Advance MoM,Nov,-0.1,0.3,-0.1,-0.25181
+12/14/2023 8:30,Initial Jobless Claims,45635,220,202,220,216
+12/15/2023 8:30,Empire Manufacturing,Dec,2,-14.5,9.1,#N/A
+12/15/2023 9:15,Industrial Production MoM,Nov,0.3,0.2,-0.6,-0.72335
+12/15/2023 9:45,S&P Global US Manufacturing PMI,Dec P,49.5,#N/A,49.4,#N/A
+12/19/2023 8:30,Housing Starts,Nov,1360,1560,1372,1376
+12/20/2023 7:00,MBA Mortgage Applications,45641,#N/A,-1.5,7.4,#N/A
+12/20/2023 10:00,Existing Home Sales,Nov,3.78,3.82,3.79,3.85
+12/20/2023 10:00,Conf. Board Consumer Confidence,Dec,104.5,110.7,102,101
+12/21/2023 8:30,Initial Jobless Claims,45642,215,205,202,205
+12/21/2023 8:30,GDP Annualized QoQ,3Q T,5.2,4.9,5.2,#N/A
+12/21/2023 10:00,Leading Index,Nov,-0.5,-0.5,-0.8,-0.9
+12/22/2023 8:30,Personal Spending,Nov,0.3,0.2,0.2,0.18813
+12/22/2023 8:30,Personal Income,Nov,0.4,0.4,0.2,0.21904
+12/22/2023 8:30,Durable Goods Orders,Nov P,2.3,5.4,-5.4,-5.1
+12/22/2023 10:00,New Home Sales,Nov,690,590,679,670
+12/22/2023 10:00,U. of Mich. Sentiment,Dec F,69.4,69.7,69.4,#N/A
+12/28/2023 8:30,Initial Jobless Claims,45649,210,218,205,207
+12/28/2023 8:30,Wholesale Inventories MoM,Nov P,-0.15,-0.2,-0.4,-0.3
+12/29/2023 9:45,MNI Chicago PMI,Dec,50,46.9,55.8,55.59368824
+1/2/2024 9:45,S&P Global US Manufacturing PMI,Dec F,48.35,47.9,49.4,47.9
+1/3/2024 7:00,MBA Mortgage Applications,45655,#N/A,-10.7,1.4,#N/A
+1/3/2024 10:00,ISM Manufacturing,Dec,47.1,47.4,46.7,46.6
+1/4/2024 8:15,ADP Employment Change,Dec,125,164,103,104
+1/4/2024 8:30,Initial Jobless Claims,45656,216,202,218,213
+1/5/2024 8:30,Change in Nonfarm Payrolls,Dec,175,216,199,181.99998
+1/5/2024 8:30,Unemployment Rate,Dec,3.8,3.7,3.7,#N/A
+1/5/2024 10:00,Durable Goods Orders,Nov F,5.4,5.4,5.4,5.41937
+1/5/2024 10:00,Factory Orders,Nov,2.35,2.6,-3.6,-3.4
+1/9/2024 8:30,Trade Balance,Nov,-64.9,-63.207,-64.255,-65.214
+1/10/2024 7:00,MBA Mortgage Applications,45296,#N/A,9.9,-10.7,#N/A
+1/10/2024 10:00,Wholesale Inventories MoM,Nov F,-0.2,-0.2,-0.2,-0.25979
+1/11/2024 8:30,CPI MoM,Dec,0.2,0.3,0.1,0.1603
+1/11/2024 8:30,Initial Jobless Claims,45297,210,202,202,198
+1/11/2024 8:30,CPI YoY,Dec,3.2,3.4,3.1,#N/A
+1/12/2024 8:30,PPI Final Demand MoM,Dec,0.1,-0.1,0,0.05345207
+1/16/2024 8:30,Empire Manufacturing,Jan,-5,-43.7,-14.5,#N/A
+1/17/2024 7:00,MBA Mortgage Applications,45303,#N/A,10.4,9.9,#N/A
+1/17/2024 8:30,Retail Sales Advance MoM,Dec,0.4,0.6,0.3,-0.02729
+1/17/2024 9:15,Industrial Production MoM,Dec,-0.1,0.1,0.2,0.43422
+1/18/2024 8:30,Housing Starts,Dec,1425,1460,1560,1512
+1/18/2024 8:30,Initial Jobless Claims,45304,205,187,202,198
+1/19/2024 10:00,Existing Home Sales,Dec,3.83,3.78,3.82,3.91
+1/19/2024 10:00,U. of Mich. Sentiment,Jan P,70.1,78.8,69.7,#N/A
+1/22/2024 10:00,Leading Index,Dec,-0.3,-0.1,-0.5,-0.5
+1/24/2024 7:00,MBA Mortgage Applications,45310,#N/A,3.7,10.4,#N/A
+1/24/2024 9:45,S&P Global US Manufacturing PMI,Jan P,47.55,#N/A,47.9,#N/A
+1/25/2024 8:30,Initial Jobless Claims,45311,200,214,187,194
+1/25/2024 8:30,GDP Annualized QoQ,4Q A,2,3.3,4.9,#N/A
+1/25/2024 8:30,Wholesale Inventories MoM,Dec P,-0.15,0.4,-0.2,-0.4
+1/25/2024 8:30,Durable Goods Orders,Dec P,1.5,0,5.4,5.5
+1/25/2024 10:00,New Home Sales,Dec,649,664,590,609
+1/26/2024 8:30,Personal Income,Dec,0.3,0.3,0.4,0.38199
+1/26/2024 8:30,Personal Spending,Dec,0.5,0.7,0.2,0.4
+1/30/2024 10:00,Conf. Board Consumer Confidence,Jan,114.8,114.8,110.7,108
+1/31/2024 7:00,MBA Mortgage Applications,45317,#N/A,-7.2,3.7,#N/A
+1/31/2024 8:15,ADP Employment Change,Jan,150,107,164,158
+1/31/2024 9:45,MNI Chicago PMI,Jan,48,46,46.9,47.19730369
+1/31/2024 14:00,FOMC Rate Decision (Upper Bound),45322,5.5,5.5,5.5,#N/A
+2/1/2024 8:30,Initial Jobless Claims,45318,212,224,214,221
+2/1/2024 9:45,S&P Global US Manufacturing PMI,Jan F,50.3,50.7,47.9,50.7
+2/1/2024 10:00,ISM Manufacturing,Jan,47.15,49.1,47.4,47.1
+2/2/2024 8:30,Change in Nonfarm Payrolls,Jan,185,353,216,290
+2/2/2024 8:30,Unemployment Rate,Jan,3.8,3.7,3.7,#N/A
+2/2/2024 10:00,Durable Goods Orders,Dec F,0,0,0,-0.25355
+2/2/2024 10:00,U. of Mich. Sentiment,Jan F,78.85,79,78.8,#N/A
+2/2/2024 10:00,Factory Orders,Dec,0.2,0.2,2.6,#N/A
+2/7/2024 7:00,MBA Mortgage Applications,45324,#N/A,3.7,-7.2,#N/A
+2/7/2024 8:30,Trade Balance,Dec,-62,-62.201,-63.2,-62.658
+2/8/2024 8:30,Initial Jobless Claims,45325,220,218,224,225
+2/8/2024 10:00,Wholesale Inventories MoM,Dec F,0.4,0.4,0.4,0.48928
+2/13/2024 8:30,CPI MoM,Jan,0.2,0.3,0.3,0.2331
+2/13/2024 8:30,CPI YoY,Jan,2.9,3.1,3.4,#N/A
+2/14/2024 7:00,MBA Mortgage Applications,45331,#N/A,-2.3,3.7,#N/A
+2/15/2024 8:30,Retail Sales Advance MoM,Jan,-0.2,-0.8,0.6,0.10962
+2/15/2024 8:30,Initial Jobless Claims,45332,220,212,218,213
+2/15/2024 8:30,Empire Manufacturing,Feb,-12.5,-2.4,-43.7,#N/A
+2/15/2024 9:15,Industrial Production MoM,Jan,0.2,-0.1,0.1,-0.29467
+2/16/2024 8:30,Housing Starts,Jan,1460,1331,1460,1566
+2/16/2024 8:30,PPI Final Demand MoM,Jan,0.1,0.3,-0.1,#N/A
+2/16/2024 10:00,U. of Mich. Sentiment,Feb P,80,79.6,79,#N/A
+2/20/2024 10:00,Leading Index,Jan,-0.3,-0.4,-0.1,-0.2
+2/21/2024 7:00,MBA Mortgage Applications,45338,#N/A,-10.6,-2.3,-3.3
+2/22/2024 8:30,Initial Jobless Claims,45339,216,201,212,211
+2/22/2024 9:45,S&P Global US Manufacturing PMI,Feb P,50.65,#N/A,50.7,#N/A
+2/22/2024 10:00,Existing Home Sales,Jan,3.965,4,3.78,3.88
+2/26/2024 10:00,New Home Sales,Jan,684,661,664,653
+2/27/2024 8:30,Durable Goods Orders,Jan P,-5,-6.1,0,-0.3
+2/27/2024 10:00,Conf. Board Consumer Confidence,Feb,115,106.7,114.8,110.9
+2/28/2024 7:00,MBA Mortgage Applications,45345,#N/A,-5.6,-10.6,#N/A
+2/28/2024 8:30,GDP Annualized QoQ,4Q S,3.3,3.2,3.3,#N/A
+2/28/2024 8:30,Wholesale Inventories MoM,Jan P,0.2,-0.1,0.4,#N/A
+2/29/2024 8:30,Personal Spending,Jan,0.2,0.2,0.7,0.58557
+2/29/2024 8:30,Initial Jobless Claims,45346,210,215,201,200
+2/29/2024 8:30,Personal Income,Jan,0.4,1,0.3,#N/A
+2/29/2024 9:45,MNI Chicago PMI,Feb,48,44,46,#N/A
+3/1/2024 9:45,S&P Global US Manufacturing PMI,Feb F,51.5,52.2,50.7,52.2
+3/1/2024 10:00,U. of Mich. Sentiment,Feb F,79.6,76.9,79.6,#N/A
+3/1/2024 10:00,ISM Manufacturing,Feb,49.5,47.8,49.1,#N/A
+3/5/2024 10:00,Durable Goods Orders,Jan F,-6.1,-6.2,-6.1,-6.87313
+3/5/2024 10:00,Factory Orders,Jan,-2.9,-3.6,0.2,-0.3
+3/6/2024 7:00,MBA Mortgage Applications,45352,#N/A,9.7,-5.6,#N/A
+3/6/2024 8:15,ADP Employment Change,Feb,150,140,107,111
+3/6/2024 10:00,Wholesale Inventories MoM,Jan F,-0.1,-0.3,-0.1,-0.18908
+3/7/2024 8:30,Trade Balance,Jan,-63.5,-67.434,-62.201,-64.2
+3/7/2024 8:30,Initial Jobless Claims,45353,216,217,215,213
+3/8/2024 8:30,Change in Nonfarm Payrolls,Feb,200,275,353,256
+3/8/2024 8:30,Unemployment Rate,Feb,3.7,3.9,3.7,#N/A
+3/12/2024 8:30,CPI MoM,Feb,0.4,0.4,0.3,#N/A
+3/12/2024 8:30,CPI YoY,Feb,3.1,3.2,3.1,#N/A
+3/13/2024 7:00,MBA Mortgage Applications,45359,#N/A,7.1,9.7,#N/A
+3/14/2024 8:30,PPI Final Demand MoM,Feb,0.3,0.6,0.3,0.3636761
+3/14/2024 8:30,Retail Sales Advance MoM,Feb,0.8,0.6,-0.8,-0.87388
+3/14/2024 8:30,Initial Jobless Claims,45360,218,209,217,210
+3/15/2024 8:30,Empire Manufacturing,Mar,-7,-20.9,-2.4,#N/A
+3/15/2024 9:15,Industrial Production MoM,Feb,0,0.1,-0.1,-0.5
+3/15/2024 10:00,U. of Mich. Sentiment,Mar P,77.1,76.5,76.9,#N/A
+3/19/2024 8:30,Housing Starts,Feb,1440,1521,1331,1374
+3/20/2024 7:00,MBA Mortgage Applications,45366,#N/A,-1.6,7.1,#N/A
+3/20/2024 14:00,FOMC Rate Decision (Upper Bound),45371,5.5,5.5,5.5,#N/A
+3/21/2024 8:30,Initial Jobless Claims,45367,213,210,209,212
+3/21/2024 9:45,S&P Global US Manufacturing PMI,Mar P,51.75,#N/A,52.2,#N/A
+3/21/2024 10:00,Leading Index,Feb,-0.1,0.1,-0.4,#N/A
+3/21/2024 10:00,Existing Home Sales,Feb,3.95,4.38,4,#N/A
+3/25/2024 10:00,New Home Sales,Feb,676.5,662,661,664
+3/26/2024 8:30,Durable Goods Orders,Feb P,1,1.4,-6.2,-6.9
+3/26/2024 10:00,Conf. Board Consumer Confidence,Mar,107,104.7,106.7,104.8
+3/27/2024 7:00,MBA Mortgage Applications,45373,#N/A,-0.7,-1.6,#N/A
+3/28/2024 8:30,GDP Annualized QoQ,4Q T,3.2,3.4,3.2,#N/A
+3/28/2024 8:30,Initial Jobless Claims,45374,212,210,210,212
+3/28/2024 9:45,MNI Chicago PMI,Mar,46,41.4,44,#N/A
+3/28/2024 10:00,U. of Mich. Sentiment,Mar F,76.5,79.4,76.5,#N/A
+3/29/2024 8:30,Personal Income,Feb,0.4,0.3,1,#N/A
+3/29/2024 8:30,Personal Spending,Feb,0.5,0.8,0.2,#N/A
+3/29/2024 8:30,Wholesale Inventories MoM,Feb P,0.2,0.5,-0.3,-0.2
+4/1/2024 9:45,S&P Global US Manufacturing PMI,Mar F,52.5,51.9,52.5,#N/A
+4/1/2024 10:00,ISM Manufacturing,Mar,48.3,50.3,47.8,#N/A
+4/2/2024 10:00,Factory Orders,Feb,1,1.4,-3.6,-3.8
+4/2/2024 10:00,Durable Goods Orders,Feb F,1.4,1.3,1.4,#N/A
+4/3/2024 7:00,MBA Mortgage Applications,45380,#N/A,-0.6,-0.7,#N/A
+4/3/2024 8:15,ADP Employment Change,Mar,150,184,140,155
+4/4/2024 8:30,Trade Balance,Feb,-67.6,-68.901,-67.434,-67.6
+4/4/2024 8:30,Initial Jobless Claims,45381,214,221,210,212
+4/5/2024 8:30,Change in Nonfarm Payrolls,Mar,214,303,275,270
+4/5/2024 8:30,Unemployment Rate,Mar,3.8,3.8,3.9,#N/A
+4/10/2024 7:00,MBA Mortgage Applications,45387,#N/A,0.1,-0.6,#N/A
+4/10/2024 8:30,CPI MoM,Mar,0.3,0.4,0.4,#N/A
+4/10/2024 8:30,CPI YoY,Mar,3.4,3.5,3.2,#N/A
+4/10/2024 10:00,Wholesale Inventories MoM,Feb F,0.5,0.5,0.5,#N/A
+4/11/2024 8:30,PPI Final Demand MoM,Mar,0.3,0.2,0.6,#N/A
+4/11/2024 8:30,Initial Jobless Claims,45388,215,211,221,222
+4/12/2024 10:00,U. of Mich. Sentiment,Apr P,79,77.9,79.4,#N/A
+4/15/2024 8:30,Empire Manufacturing,Apr,-5.2,-14.3,-20.9,#N/A
+4/15/2024 8:30,Retail Sales Advance MoM,Mar,0.4,0.7,0.6,0.9
